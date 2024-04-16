@@ -1,4 +1,4 @@
-package com.task01;
+package com.cmtrc48239a0helloworldtest;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
