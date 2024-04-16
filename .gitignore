@@ -1,0 +1,5 @@
+.syndicate
+logs/
+
+# Project exclude paths
+/target/
