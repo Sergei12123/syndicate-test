@@ -18,10 +18,15 @@ import java.util.Map;
 public class Demojavalambda implements RequestHandler<APIGatewayProxyRequestEvent, Map<String, Object>> {
 
 	public Map<String, Object> handleRequest(APIGatewayProxyRequestEvent request, Context context) {
-		System.out.println("Hello from lambda");
+		if(request.getPath().equals("/hello") && request.getHttpMethod().equals("GET")){
+			System.out.println("Hello from lambda");
+			Map<String, Object> resultMap = new HashMap<String, Object>();
+			resultMap.put("statusCode", 200);
+			resultMap.put("message", "Hello from Lambda");
+			return resultMap;
+		}
 		Map<String, Object> resultMap = new HashMap<String, Object>();
 		resultMap.put("statusCode", 200);
-		resultMap.put("body", "Hello from Lambda");
 		return resultMap;
 	}
 }

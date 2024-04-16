@@ -1,17 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-I
-deployment_resources.json,8\1\816544df849ba10d2d8c8afba56a9ae2452fb9e5
-S
-#.syndicate-config-dev/syndicate.yml,8\9\89cd7fb0050d156fe36118bba6ac4e096740b9e3
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-]
--jsrc/main/java/com/task01/Demojavalambda.java,2\1\2191a2cd7cd0a00de9043095f07fa2cfc2d7f584
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 A
 task01/.gitignore,d\a\daecebfbfcb28e38a54019462de4bf286682deb8
 ]
@@ -22,8 +9,6 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 P
  task01/deployment_resources.json,a\6\a6533e6c6d2e3f04f7a25264bec6ced5e161dfae
-d
-4task01/jsrc/main/java/com/task01/Demojavalambda.java,c\b\cb62cc530f1f2873136f16229d17c5cbeeb236e1
 b
 2task01/.syndicate-config-dev/syndicate_aliases.yml,f\8\f854231c2c59593a12ab76df24bb78a6c20172f9
 >
@@ -32,3 +17,24 @@ b
 atask01/.syndicate-config-dev/bundles/cmtr-c48239a0-hello_world-test_240416.141227/build_meta.json,c\d\cd4d074cbee129db5819d40eb952c8a8ac3bd2f5
 Z
 *task01/.syndicate-config-dev/syndicate.yml,b\4\b46539bd377cd465ad0b1bb1b285e8542e4e6575
+q
+Ajsrc/main/java/com/cmtrc48239a0helloworldtest/Demojavalambda.java,9\1\91def0fc0b7ad3acd3e190916545584b24a6c5b2
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+V
+&cmtr-c48239a0-hello_world-test (1).iml,6\6\664a4299bcde9e9030f0676f273f085c2316e5a0
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+R
+"cmtr-c48239a0-hello_world-test.iml,0\6\06f186fe5767d973f2a0d3e5fc480ec28a7067fa
+Š
+Z.syndicate-config-dev/bundles/cmtr-c48239a0-hello_world-test_240416.141227/build_meta.json,0\c\0c7a10793ab335ee65dd5406aec4038282e74874
+[
++.syndicate-config-dev/syndicate_aliases.yml,d\8\d87ada9d3f1ec5c7a88680ea250f0666bdb5df22
+I
+deployment_resources.json,8\1\816544df849ba10d2d8c8afba56a9ae2452fb9e5
+S
+#.syndicate-config-dev/syndicate.yml,8\9\89cd7fb0050d156fe36118bba6ac4e096740b9e3
